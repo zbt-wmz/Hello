@@ -5,7 +5,7 @@ public class HelloWorld   #如果有 public 类的话，类名必须和文件同
   {  
   #向控制台打印一条语句  
     System.out.println("Hello,World!");
-        System.out.println("My name is zbt!");
+        System.out.println("My name is your name!");
         System.out.println("I am coming!");
         }
 }
